@@ -1,0 +1,51 @@
+body{
+    color: white;
+}
+/* Mettre le contenaire en display flex */
+    
+
+.big-container{
+    /* border: solid 2px; */
+    display: flex;
+    width: 800px;
+    margin: auto;
+}
+img{
+    width: 350px;
+    height: 100%
+}
+/* mettre le form container en forme */
+.form-container{
+    background-color: black;
+    /* border: solid white ; */
+    width: 300px;
+    padding: 10px;
+    padding-top:100px ;
+}
+input, button{
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    border: black;
+    outline: none;
+    margin-left: 10px;
+}
+input{
+    margin-bottom: 20px;
+    
+}
+button {
+    background-color:grey;
+    border-radius: 2px;
+    width: 60px;
+    font-size:small;
+
+}
+button:hover{
+    cursor: pointer;
+    background-color: steelblue;
+
+}
+body{
+    background-color:grey;
+}

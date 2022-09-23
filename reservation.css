@@ -1,0 +1,114 @@
+
+body{
+  
+    /* padding-t: 200px; */
+   
+     
+}
+.form{
+    /* background-color: rgba(0, 0, 0, 0.378); */
+    background-image: url(/image/back-bg.jpg);
+     padding: 150px;
+     margin: 100px;
+     
+}
+.e{
+    margin-left: 150px;
+    font-size: 3rem;
+}
+/* .i{
+    align-items: center;
+} */
+/* .form1{
+    background-color: rgba(0, 0, 0, 0.687);
+     padding: 150px;
+     margin: 100px;
+     
+} */
+.bg-img{
+    /* background-image: url(/image/rasta.jpg); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+select {
+    width: 400px;
+    height: 30px;
+    margin-bottom:10px ;
+    margin: auto;
+    border-radius: 5px;
+    outline: none;
+
+}
+input{
+    width: 390px;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+
+    margin-bottom:10px ;
+
+}
+.big-title{
+font-size: xx-large;
+
+}
+
+.container{
+    width: 100%;
+    /* height: 900px */
+    
+    /* background-image: url(image/afro-men.jpg); */
+
+}
+.container-one{
+    width: 100%;
+    height: 100%;
+    /* border: solid red; */
+    background-color: rgba(0, 0, 0, 0.397);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.container-two{
+    width: 400px;
+    /* height:100%; */
+     
+   
+    
+    
+}
+.button{
+    display: flex;
+    width: 390px;
+    height: 50px;
+    justify-content: space-around;
+    margin-top: 20px;
+  
+
+
+}
+
+form{
+padding-left: 150px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+/* ******************************************************************************************* */
+/* BLOG TEXT CSS */
+.text-image-container{
+    display: flex;
+    font-size: larger;
+}
+.text-container{
+    margin: 30px
+}
+.under-image{
+    margin: 100px;
+    font-size: larger;
+ 
+}
+
